@@ -1,2 +1,2 @@
-# prime-number-react
+# leap-year
 Created with CodeSandbox
